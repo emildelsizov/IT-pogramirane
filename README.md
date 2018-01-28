@@ -1,3 +1,4 @@
 # IT-pogramirane 
 az sam Emo
-emo
+profesionalen pogramist
+emo e dritadjiq
